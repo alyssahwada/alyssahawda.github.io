@@ -1,30 +1,26 @@
 <!DOCTYPE html>
 <html>
   <head>
-    
-  </head>
-  <body>
-    background-color:lightblue;
-    font-family:Arial, sans-serif;
-    margin:0 
-    padding:20px;
+    <title>Island Elite cheer</title>title>
 
-    h1{
-    color:darkblue;
+    <style>
+    body{
+    background-color:light blue;
+    font-family:Arial;
+    margin:0;
     text-align:center;
-    font-size:40px;
     }
-
-    p{
-    font-size:18px;
-    color:black 
+    header{
+    background-color:black;
+    color:white;
+    padding:25px
     }
-
-    div{
+    nav{
     background-color:white;
-    padding:20px;
-    border radius: 10px;
-    
-    }
+    padding:15px
+      }
+      nav
+  </head>
+  
   </body>
 </html>
